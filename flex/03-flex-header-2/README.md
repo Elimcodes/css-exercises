@@ -15,7 +15,11 @@ As with the last example, this one needs to be flexible in the middle, with item
 
 ### Self Check
 - Everything is centered vertically inside the header.
+A: yes. 
 - There is 8px space between everything and the edge of the header.
+A: yes. 
 - Items are arranged horizontally as seen in the outcome image.
+A: yes. 
 - There is 16px between each item on both sides of the header.
 - flex is used to arrange everything.
+A: yes. 
